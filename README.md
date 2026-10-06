@@ -21,4 +21,8 @@ pip install -r requirements.txt
 
 python -m assistant "where is the training office?"
 
+"No module named assistant": You forgot pip install -e . or the virtual environment is not active.
+
+
+tt
 pytest -q
