@@ -48,3 +48,6 @@ scripts/: helper scripts
 PowerShell blocks Activate.ps1: Run Set-ExecutionPolicy -Scope CurrentUser RemoteSigned
 
 "No module named assistant": You forgot pip install -e . or the virtual environment is not active.
+
+
+tt
